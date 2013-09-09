@@ -16,3 +16,5 @@ Next, add this to your urls (in this case the files were put in a folder called 
 
       urlpatterns += patterns('',
                         (r'^apps/whatshappening/', include('whatshappening.urls')),
+
+![Screenshot of the app](static/app-photo.png)
